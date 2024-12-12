@@ -8,6 +8,7 @@ export default function Products(){
         description: string,
         image: string,
         price: string,
+
       }
 
     const data: Card[] = [

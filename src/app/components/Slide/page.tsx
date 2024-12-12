@@ -15,11 +15,11 @@ export default function () {
         <button className="bg-[#B88E2F] p-2">Exlore More</button>
         </div>
         <div className="slideImages">
-        <Image src="/inner.png" width={250} height={480}  alt="Picture of the author" />
+        <Image src="/inner.png" width={250} height={480} layout="intrinsic" alt="Picture of the author" />
 
         </div>
         <div className="slideImages">
-        <Image src="/Sideinner.png" width={250} height={480} alt="Picture of the author" />
+        <Image src="/Sideinner.png" width={250} height={480} layout="intrinsic" alt="Picture of the author" />
 
         </div>
       </div>

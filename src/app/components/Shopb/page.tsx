@@ -5,7 +5,7 @@ export default function BlowHero(){
         <>
      <div className="showBlowBar w-[100%] h-[4rem] bg-[#F9F1E7]" >
         <div>
-        <Image src="/filter.png" width={30} height={50} alt="Picture of the author" />
+        <Image src="/filter.png" width={30} height={50} layout="intrinsic" alt="Picture of the author" />
             <p>Filter</p>
 
 
